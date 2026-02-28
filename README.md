@@ -9,7 +9,8 @@ Building local-first AI systems, agent frameworks, and experimental tooling.
 Projects ready for use.
 
 - **pi-mono-alibaba - pi mono and oh-my-pi qwen coding plan endpoint config (original work)**
-- **Event-Invariant-Language - spec for agent handoff invariants (original work)**
+- **event-invariant-language - spec for agent handoff invariants (original work)**
+- **hard-constraints-acceptance-criteria - spec for agents to complete work (original work)**
 - **lmstudio_hf - creates symlnks from Hugging Face cache to LM Studio folder (fork)**
 
 ---
