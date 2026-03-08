@@ -53,3 +53,7 @@ Things I need to study.
 - **rlm-minimal (fork)**
 - **MX-QLLM (fork)**
 - **HelpBookDemo (fork)**
+- **dgm (fork)**
+- **raplh-playbook**
+- **lambda-lang**
+- **serax**
