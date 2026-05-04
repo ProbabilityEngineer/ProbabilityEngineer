@@ -8,9 +8,6 @@ Building local-first AI systems, agent frameworks, and experimental tooling.
 
 Projects ready for use.
 
-- **pi-qwen-coding-plan - pi mono and oh-my-pi qwen coding plan endpoint config (original work)**
-- **event-invariant-language - spec for agent handoff invariants (original work)**
-- **hard-constraints-acceptance-criteria - spec for agents to complete work (original work)**
 - **lmstudio_hf - creates symlnks from Hugging Face cache to LM Studio folder (fork)**
 
 ---
@@ -19,9 +16,6 @@ Projects ready for use.
 
 Currently evolving projects I'm adapting to my use.
 
-- **oh-my-pi (fork)**
-- **oh-my-pi-crust - rust port (originalish work)**
-- **beads (fork)**
 - **persistent-mind-model-v1.0 (fork)**
 
 ---
@@ -30,8 +24,6 @@ Currently evolving projects I'm adapting to my use.
 
 Things I'd like to work on.
 
-- **mlx-lm (fork)**
-- **mlx-vlm (fork)**
 - **continuous-thought-machines (fork)**
 - **icestudio (fork)**
 - **BDHs (fork)**
@@ -43,15 +35,6 @@ Things I'd like to work on.
 
 Things I need to study.
 
-- **pi_agent_rust (fork)**
-- **pi-mono (fork)**
-- **ypi (fork)**
-- **oh-my-opencode (fork)**
-- **mergekit (fork)**
-- **recursive-llm (fork)**
-- **rlm (fork)**
-- **rlm-minimal (fork)**
-- **MX-QLLM (fork)**
 - **HelpBookDemo (fork)**
 - **dgm (fork)**
 - **raplh-playbook**
