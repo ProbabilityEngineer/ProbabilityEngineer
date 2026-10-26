@@ -1,8 +1,8 @@
 # Probability Engineer
----
-## Just one of those terrible vibecoders ruining the industry by building whatever little quality-of-life improvement no one could afford to do before.
 
-You might want - 
+### Just one of those terrible vibecoders ruining the industry by building whatever little quality-of-life improvement no one could afford to do before.
+
+####You might want - 
 
 https://github.com/ProbabilityEngineer/EDHM-UI-Mac
 
