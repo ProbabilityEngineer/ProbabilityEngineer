@@ -10,7 +10,7 @@
 
 ---
 
-EDHM-UI for Mac is a port of [BlueMysticals EDHM-UI](https://github.com/BlueMystical/EDHM_UI) ui modifier for the windows spaceship game Elite Dangerous, for those of us cursed with running Elite on our macs through crossover or wine. I keep it up with upstream releases when the game is updated. (GPL 3.0)
+EDHM-UI for Mac is a port of [BlueMysticals EDHM_UI](https://github.com/BlueMystical/EDHM_UI) ui modifier for the windows spaceship game Elite Dangerous, for those of us cursed with running Elite on our macs through crossover or wine. I keep it up with upstream releases when the game is updated. (GPL 3.0)
 
 ScanTailor Advanced for Mac is my port of the scanner deskewing package from [ScanTailor Advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) (GPL 3.0)
 
