@@ -1,6 +1,6 @@
 # Probability Engineer
 
-### Just one of those terrible vibecoders ruining the industry by building whatever little quality-of-life improvement no one could afford to do before.
+### Just another one of those terrible vibecoders ruining the industry by building whatever little quality-of-life improvement no one could afford to do before.
 
 #### You might be looking for - 
 
