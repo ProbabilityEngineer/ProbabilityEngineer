@@ -14,4 +14,4 @@ EDHM-UI for Mac is a port of [BlueMysticals EDHM-UI](https://github.com/BlueMyst
 
 ScanTailor Advanced for Mac is my port of the scanner deskewing package from [ScanTailor Advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) (GPL 3.0)
 
-I also have an extensive collection of Pi extensions, including the [Pi-Diet](https://github.com/ProbabilityEngineer/pi-diet) family for trimming Pi's context, saving tokens and and keeping agents attention focussed on the task at hand, not polluted with spamming tools, etc.
+I also have an extensive collection of Pi extensions, including the [Pi-Diet](https://github.com/ProbabilityEngineer/pi-diet) family for trimming Pi's context, saving tokens and keeping agents' attention focussed on the task at hand, not polluted with spamming tools, etc.
