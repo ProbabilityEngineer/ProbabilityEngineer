@@ -4,7 +4,7 @@
 
 #### You might want - 
 
-https://github.com/ProbabilityEngineer/EDHM-UI-Mac
+[EDHM-UI for Mac](https://github.com/ProbabilityEngineer/EDHM-UI-Mac)
 
 A complete project to bring EDHM-UI ui modifier for Elite Dangerous to those of us cursed with running Elite on our macs through crossover or wine. It keeps up with upstream releases, more or less.
 
