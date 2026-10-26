@@ -1,13 +1,4 @@
 # Probability Engineer
-
-Building experimental tooling.
-
----
-
-## Start Here (Stable)
-
-Projects ready for use.
-
 ---
 ## Just one of those terrible vibecoders ruining the industry by building whatever little quality-of-life improvement no one could afford to do before.
 
