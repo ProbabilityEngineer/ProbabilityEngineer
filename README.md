@@ -8,6 +8,7 @@
 
 [ScanTailor Advanced for Mac](https://github.com/ProbabilityEngineer/ScanTailor-Advanced-Mac)
 
+[Elite Dangerous Crossover HiDPI registry fix](https://github.com/ProbabilityEngineer/elite-crossover-hidpi-fix)
 ---
 
 EDHM-UI for Mac is a port of [BlueMysticals EDHM_UI](https://github.com/BlueMystical/EDHM_UI) ui modifier for the windows spaceship game Elite Dangerous, for those of us cursed with running Elite on our macs through crossover or wine. I keep it up with upstream releases when the game is updated. (GPL 3.0)
