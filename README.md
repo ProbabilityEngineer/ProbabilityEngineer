@@ -8,12 +8,14 @@
 
 [ScanTailor Advanced for Mac](https://github.com/ProbabilityEngineer/ScanTailor-Advanced-Mac)
 
-[Elite Dangerous Crossover HiDPI registry fix](https://github.com/ProbabilityEngineer/elite-crossover-hidpi-fix)
+[Elite Dangerous Crossover HiDPI Registry Fix](https://github.com/ProbabilityEngineer/elite-crossover-hidpi-fix)
 
 ---
 
 EDHM-UI for Mac is a port of [BlueMysticals EDHM_UI](https://github.com/BlueMystical/EDHM_UI) ui modifier for the windows spaceship game Elite Dangerous, for those of us cursed with running Elite on our macs through crossover or wine. I keep it up with upstream releases when the game is updated. (GPL 3.0)
 
 ScanTailor Advanced for Mac is my port of the scanner deskewing package from [ScanTailor Advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) (GPL 3.0)
+
+Elite Dangerous Crossover HiDPI Fix is a simply windows registry file that forces Elite to be HiDPI aware, allowing borderless mode to output the screen's resolution, not the desktop's scaled logical resolution (defaults at x0.5 on mac). The advantage of this is that borderless mode is *much* more reliable for app-switching than fullscreen mode
 
 I also have an extensive collection of Pi extensions, including the [Pi-Diet](https://github.com/ProbabilityEngineer/pi-diet) family for trimming Pi's context, saving tokens and keeping agents' attention focussed on the task at hand, not polluted with spamming tools, etc.
