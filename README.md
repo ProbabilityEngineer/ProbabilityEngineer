@@ -12,7 +12,7 @@
 
 ---
 
-EDHM-UI for Mac is a port of [BlueMysticals EDHM_UI](https://github.com/BlueMystical/EDHM_UI) ui modifier for the windows spaceship game Elite Dangerous, for those of us cursed with running Elite on our macs through crossover or wine. I keep it up with upstream releases when the game is updated. (GPL 3.0)
+EDHM-UI for Mac is a port of [BlueMystical's EDHM_UI](https://github.com/BlueMystical/EDHM_UI) ui modifier for the windows spaceship game Elite Dangerous, for those of us cursed with running Elite on our macs through crossover or wine. I keep it up with upstream releases when the game is updated. (GPL 3.0)
 
 Elite Dangerous Crossover HiDPI Fix is a simply windows registry file that forces Elite to be HiDPI aware, allowing borderless mode to output the screen's resolution, not the desktop's scaled logical resolution (defaults at x0.5 on mac). The advantage of this is that borderless mode is *much* more reliable for app-switching than fullscreen mode
 
