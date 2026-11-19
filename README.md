@@ -8,6 +8,10 @@
 
 [Elite Dangerous Crossover HiDPI Registry Fix](https://github.com/ProbabilityEngineer/elite-crossover-hidpi-fix)
 
+
+
+[DXMT with fixes for Elite Dangerous ED-UP-Mac](https://github.com/ProbabilityEngineer/dxmt)
+
 [ScanTailor Advanced for Mac](https://github.com/ProbabilityEngineer/ScanTailor-Advanced-Mac)
 
 ---
