@@ -8,7 +8,7 @@
 
 [Elite Dangerous Crossover HiDPI Registry Fix](https://github.com/ProbabilityEngineer/elite-crossover-hidpi-fix)
 
-[ED-Unofficial-Patch-Mac](https://github.com/ProbabilityEngineer/ED-Unofficial-Patch-Mac)
+[ED Unofficial Patch for Mac](https://github.com/ProbabilityEngineer/ED-Unofficial-Patch-Mac)
 
 [DXMT with fixes for ED-Unofficial-Patch-Mac (Optional)](https://github.com/ProbabilityEngineer/dxmt)
 
